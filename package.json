@@ -1,0 +1,19 @@
+{
+  "name": "calendar-aggregator",
+  "version": "1.0.0",
+  "description": "Project to aggregate data from Google calendar",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matthackin/calendar-aggregator.git"
+  },
+  "author": "Matthew Hatton",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matthackin/calendar-aggregator/issues"
+  },
+  "homepage": "https://github.com/matthackin/calendar-aggregator#readme"
+}
